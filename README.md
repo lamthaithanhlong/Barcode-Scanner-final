@@ -9,9 +9,7 @@ https://1drv.ms/u/s!Avzc9BqPxhlPaAXH0mxrSjAP9K8
 ## headings
 
 what is the problem ? 
-cannot connect to device && [InternetShortcut]
-URL=https://github.com/lamthaithanhlong/Barcode-Scanner-final/issues
-get data from HID device 
+cannot connect to device &&  get data from HID device 
 
 Why this problem occur ?
 1. Window does not allow to connect the mouse and keyboard driver
