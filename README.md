@@ -20,3 +20,4 @@ Why this problem occur ?
 How to solve this problem ?
 1. config EZconfig
 
+https://github.com/lamthaithanhlong/Barcode-Scanner-final/issues/1#issue-353714102
