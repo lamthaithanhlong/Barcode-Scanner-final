@@ -19,3 +19,8 @@ How to solve this problem ?
 1. config EZconfig
 
 https://github.com/lamthaithanhlong/Barcode-Scanner-final/issues/1#issue-353714102
+
+
+
+Link Ezconfig :
+https://1drv.ms/u/s!Avzc9BqPxhlPaAXH0mxrSjAP9K8
